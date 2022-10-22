@@ -1,0 +1,88 @@
+.header{
+    background-image: url(../../../assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 70px;
+    background-position:50%;
+}
+.header-details .header-icon a{
+    margin-left: 14px;
+    color: white;
+    font-size: 20px;
+}
+
+.header-title{
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.header-title span{
+    color: #ff5823;
+}
+
+.header-img{
+    box-shadow: 0 1px 0 0 white;
+    border-radius: 50%;
+    height: 380px;
+    width: 380px;
+}
+.header-img img{
+    height: 92%;
+    width: 92%;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-left: 14px;
+    margin-top: 20px;
+    transition: 1s ease-out;
+
+}
+
+.shapred img{
+    height: 130px;
+}
+.header-button{
+    border-radius: 50px;
+    padding: 10px 40px;
+}
+.header-button a:hover{
+    color: white;
+}
+
+.header-img img:hover{
+    transform: scale(1.06);
+   
+}
+
+@media only screen and (max-width: 767px) {
+   
+    .header-details{
+        order: 1;
+    }
+    .header-img{
+        height: 320px;
+        width: 320px;
+        
+    }
+    .header-img img{
+        height: 90%;
+        width: 90%;
+        margin-left: 15px;
+    margin-top: 24px;
+    }
+    .header-img img:hover{
+        transform: scale(1.05);
+       
+    }
+    .shapred img{
+        height: 50px;
+        border: none;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 992px) {
+    .header-details{
+        order: 1;
+    }
+  }
