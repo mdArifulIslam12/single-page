@@ -39,7 +39,7 @@ const Services = () => {
         },
     ]
     return (
-        <div className='container my-5'>
+        <div className='container my-5' id='services'>
             <div className="row py-5 d-flex justify-content-center align-itmes-center">
                 <div className="col-lg-5 text-center">
                    <h2 className='services-title'>Services</h2>

@@ -40,7 +40,7 @@ const Header = () => {
               />
             </h2>
             <p>Graphic designers develop visual concepts by hand or with computer software etc</p>
-            <button className="btn header-button mt-4"><a href="#"><span>Hire Me</span></a></button>
+            <button className="btn btn1 header-button mt-4"><a href="#"><span>Hire Me</span></a></button>
           </div>
           <div className="col-lg-5 ">
             <div className="header-img mx-auto">

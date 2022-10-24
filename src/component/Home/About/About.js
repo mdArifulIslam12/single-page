@@ -3,7 +3,7 @@ import './About.css'
 
 const About = () => {
     return (
-        <div className='container my-5'>
+        <div className='container my-5' id='about-us'>
             <div className="row d-flex justify-content-center">
                 <div className="col-lg-4 text-center py-5">
                     <h2 className='services-title'>About Me</h2>
@@ -25,7 +25,7 @@ const About = () => {
                     <li>Best Price in Marketplace</li>
                     <li>Unique Design</li>
                   </ul>
-                  <button className="btn header-button mt-4"><a href=""><span>Let's Talk</span></a></button>
+                  <button className="btn btn1 header-button mt-4"><a href=""><span>Let's Talk</span></a></button>
                   </div>
                 </div>
             </div>

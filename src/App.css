@@ -4,7 +4,7 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 
-.btn{
+.btn1{
   color: #fff;
   background: linear-gradient(135deg, #852d91, #312a6c);
   font-size: 22px;
@@ -16,14 +16,14 @@ body{
   position: relative;
   transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1);
 }
-.btn:hover{
+.btn1:hover{
   color: #fff;
   border: none;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
   animation: rotate 0.7s ease-in-out both;
 }
-.btn:before,
-.btn:after{
+.btn1:before,
+.btn1:after{
   content: '';
   background: #fff;
   width: 100px;
@@ -37,8 +37,8 @@ body{
   z-index: -1;
   transition: all 0.15s cubic-bezier(0.02, 0.01, 0.47, 1);
 }
-.btn:hover:before,
-.btn:hover:after{
+.btn1:hover:before,
+.btn1:hover:after{
   opacity: 0.15;
 }
 .btn:hover:before{ transform: translate3d(50%, 0, 0) scale(0.9); }
@@ -49,6 +49,31 @@ body{
   50%{ transform: rotate(-3deg); }
   75%{ transform: rotate(1deg); }
   100%{ transform: rotate(0deg); }
+}
+.app{
+  position: relative;
+}
+
+.all-scrool{
+  position: fixed;
+  bottom: 55px;
+  right: 50px;
+  z-index: 9999;
+}
+.all-scrool a{
+  background-color: rgba(254,62,87,.7);
+    display: block;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    border: 2px solid #fe3e57;
+    border-radius: 45px;
+    text-align: center;
+    transition: all .2s;
+}
+.all-scrool a:hover{
+  background-color: #fe3e57;
 }
 @media only screen and (max-width: 767px){
   .btn{ margin-bottom: 20px; }
