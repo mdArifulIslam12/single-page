@@ -56,8 +56,8 @@ body{
 
 .all-scrool{
   position: fixed;
-  bottom: 55px;
-  right: 50px;
+  bottom: 32px;
+  right: 26px;
   z-index: 9999;
 }
 .all-scrool a{

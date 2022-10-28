@@ -1,0 +1,100 @@
+
+[{
+    "id":"1",
+    "name":"Minimalism",
+    "categorie":"coustom",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-8-ebed7530ebf1aae0ff380dc00703fa60.jpg"
+     
+},
+{
+    "id":"2",
+    "name":"Travel App",
+    "categorie":"ux",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-7-a7628798fbff7fce04a10a8e43df8ee8.jpg"
+     
+},
+{
+    "id":"3",
+    "name":"Shopper",
+    "categorie":"coustom",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-6-3d2f2b2ffc9b39d333729d891500eec6.jpg"
+     
+},
+{
+    "id":"4",
+    "name":"Minimalism",
+    "categorie":"motion",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-5-3cadcb12e5ce331399c11f09ecac35c8.jpg"
+     
+},
+{
+    "id":"5",
+    "name":"Minimalism",
+    "categorie":"coustom",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-4-88243963509e13aa5b5d19d728fbe455.jpg"
+     
+},
+{
+    "id":"6",
+    "name":"Minimalism",
+    "categorie":"motion",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-3-682a9e1c5601a0962cc18960bd176b70.jpg"
+     
+},
+{
+    "id":"7",
+    "name":"Minimalism",
+    "categorie":"ux",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-16-aad29b87671cecb53384f57b3f79c5de.jpg"
+     
+},
+{
+    "id":"8",
+    "name":"Minimalism",
+    "categorie":"coustom",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-15-468854f9678010e2362e22367e3ee9e0.jpg"
+     
+},
+{
+    "id":"9",
+    "name":"Minimalism",
+    "categorie":"motion",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-2-f076a2ad0783c80be787b9074408d826.jpg"
+     
+},
+{
+    "id":"10",
+    "name":"Minimalism",
+    "categorie":"ux",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-1-008b8c67d34fca1f484b0073e14830a5.jpg"
+     
+},
+{
+    "id":"11",
+    "name":"Minimalism",
+    "categorie":"motion",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-14-18048ae08c0a75d1edf90e7cebc02c39.jpg"
+     
+},
+{
+    "id":"12",
+    "name":"Minimalism",
+    "categorie":"coustom",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-13-e5ccfe9dcf20720ab679bd7ad6088d69.jpg"
+     
+},
+{
+    "id":"13",
+    "name":"Minimalism",
+    "categorie":"ux",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-12-630843913c7624615afa4e0c404c6dae.jpg"
+     
+},
+{
+    "id":"14",
+    "name":"Minimalism",
+    "categorie":"motion",
+    "img":"https://folio-gatsby-live.netlify.app/static/portfolio-mas-11-aced7dd897ab16a101f3a2eb25fbfbe6.jpg"
+     
+}
+]

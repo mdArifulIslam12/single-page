@@ -16,13 +16,14 @@ function App() {
       <Navbar/>
       <Routes>
         <Route path='/' element={<Home/>} />
-        <Route path='/home' element={<Home/>} />
-        <Route path='/login' element={<Login/>} />
+        <Route path='home' element={<Home/>} />
+        <Route path='login' element={<Login/>} />
       </Routes>
       <ToastContainer/>
       <div className='all-scrool'>
       <a href="#scrool"><FontAwesomeIcon className='all-scrool-icon' icon={faArrowUp}/></a>
-      </div>
+      </div>   
+     
       <Footer/>
     </div>
   );

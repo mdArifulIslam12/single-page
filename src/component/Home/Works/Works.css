@@ -1,0 +1,24 @@
+.works{
+    border-bottom: 2px solid #9c9bf2;
+    
+}
+
+.works a{
+    padding: 10px 30px;
+    color: #747474;
+    font-size: 19px;
+    font-weight: 600;
+    transition: .3s;
+}
+.works a:hover{
+    color: black;
+}
+
+.works .active-btn{
+    color: black;
+   border: none;
+   border-bottom: 3px solid #131058;
+}
+.works .active-btn:hover{
+    border-bottom: 3px solid #131058;
+}
