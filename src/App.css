@@ -72,9 +72,16 @@ body{
     text-align: center;
     transition: all .2s;
 }
+.displayNone{
+  display: none;
+}
+.displayBlock{
+  display: block;
+}
 .all-scrool a:hover{
   background-color: #fe3e57;
 }
+
 @media only screen and (max-width: 767px){
   .btn{ margin-bottom: 20px; }
 }
